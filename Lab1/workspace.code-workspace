@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"glib.h": "c",
+			"stdio.h": "c",
+			"stdlib.h": "c",
+			"parser.h": "c",
+			"builtin.h": "c",
+			"wait.h": "c",
+			"unistd.h": "c",
+			"syscall_mock.h": "c",
+			"command.h": "c"
+		}
+	}
+}
